@@ -4,11 +4,26 @@
  */
 html, body {
   width: 100%;
-  overflow-x: hidden; }
+}
 
 body {
   font-family: 'Lato', sans-serif;
   font-weight: 300; }
+
+.logo {
+  width: 70px;
+}
+
+.main-logo-bar {
+  display: flex; 
+  align-items: center; 
+  gap: 20px
+}
+
+.owl-stage {
+  display: flex;  
+  align-items: center; 
+}
 
 h1,
 h2,
