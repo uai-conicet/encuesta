@@ -21,14 +21,14 @@ body {
 }
 
 .main-logo-bar {
-  display: flex; 
-  align-items: center; 
+  display: flex;
+  align-items: center;
   gap: 20px
 }
 
 .owl-stage {
-  display: flex;  
-  align-items: center; 
+  display: flex;
+  align-items: center;
 }
 
 h1,
@@ -767,7 +767,41 @@ section {
     /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #333399, #ff00cc);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    padding: 10px; } }
+    padding: 10px;
+  }
+
+  .navbar-brand {
+    margin: auto;
+    margin-bottom: 5px;
+  }
+
+  .logo {
+    width: 40px;
+    height: 42px;
+  }
+
+  .logo-2 {
+    width: 80px !important;
+    height: 80px !important;
+    margin: auto;
+  }
+
+  .display-1 {
+    font-size: 3rem !important;
+  }
+}
+
+.owl-carousel {
+  text-align: center;
+  margin: auto;
+  justify-content: center;
+}
+
+.logo-2 {
+  width: 220px;
+  height: 220px;
+  margin: auto;
+}
 
 @media (max-width: 767px) {
   .jumbotron h1 {
