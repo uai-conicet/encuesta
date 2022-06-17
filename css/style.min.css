@@ -5,6 +5,9 @@
 html, body {
   width: 100%;
   scroll-behavior: smooth;
+}
+
+.overlflow-hidden {
   overflow-x: hidden;
 }
 
