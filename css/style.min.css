@@ -827,3 +827,10 @@ section {
 .nav-link {
   font-weight: 500;
 }
+
+.link { color: #f1f0f1; } /* CSS link color (red) */
+.link:hover { color: #20eed3; } /* CSS link hover (green) */
+
+.underline {
+  text-decoration: underline rgb(223, 208, 226)
+}
