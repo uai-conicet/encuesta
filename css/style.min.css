@@ -8,7 +8,7 @@ html, body {
 }
 
 .overlflow-hidden {
-  overflow-x: hidden;
+
 }
 
 body {
@@ -829,7 +829,7 @@ section {
 }
 
 .link { color: #f1f0f1; } /* CSS link color (red) */
-.link:hover { color: #20eed3; } /* CSS link hover (green) */
+.link:hover { color: #8bc7ff; } /* CSS link hover (green) */
 
 .underline {
   text-decoration: underline rgb(223, 208, 226)
